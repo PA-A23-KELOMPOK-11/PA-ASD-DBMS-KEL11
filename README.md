@@ -36,3 +36,25 @@ Program menjaga Ekosistem Laut adalah program yang dibuat untuk mengawasi dan me
   Data baru berhasil ditambah
   ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/e3329b64-c81e-4245-9d59-cf4c28fbbd3f)
 
+* Opsi '3' untuk menghapus data biota laut
+  
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/97768033-61fa-4572-b3cb-7884592916e2)
+
+  Data berhasil dihapus
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/0455eae3-ce31-4fa7-9214-fe93abaeabcd)
+
+* Opsi '4' Untuk memperbarui data yang sudah ada
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/6e174ee5-b76a-47c1-aaba-677d0b510bd8)
+
+  Data sebelum diperbarui
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/a54c221e-a3c5-454b-ae22-346acbea7ad7)
+
+  Data setelah diperbarui
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/be81ab70-04c1-4931-aa58-631f740ae8ac)
+
+
+
+  
+
+
+
