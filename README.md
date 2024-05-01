@@ -27,3 +27,12 @@ Program menjaga Ekosistem Laut adalah program yang dibuat untuk mengawasi dan me
 * Jika berhasil login, user akan masuk ke menu admin admin. Di menu admin sendiri memiliki 8 opsi yang bisa dilihat di bawah ini
   ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/d5c97efb-2c2b-4413-8d49-152605467f41)
 
+* Opsi '1' untuk menampilkan data dari biota laut
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/bb64edcf-63f9-4ffe-ac88-b76eff1c4511)
+
+* Opsi '2' untuk menambah data biota laut baru
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/9a859435-68eb-45c5-9d16-29538ffa5b5c)
+  
+  Data baru berhasil ditambah
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/e3329b64-c81e-4245-9d59-cf4c28fbbd3f)
+
