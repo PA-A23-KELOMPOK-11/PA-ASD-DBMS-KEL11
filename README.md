@@ -16,3 +16,14 @@ Program menjaga Ekosistem Laut adalah program yang dibuat untuk mengawasi dan me
 
 
 ## Cara Penggunaan Program
+### Menu Utama
+* Ini merupakan menu utama, user dapat melakukan login sebagai Admin atau Penanggung Jawab(PJ)
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/3c56880a-ba0f-4d8d-8341-5ef2f94a5111)
+  
+* Disini saya memilih opsi '1'1 yaitu login sebagai admin, masukkan Nama dan ID Admin
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/f6c0ea49-9060-49fe-8495-0eb2bff1a5e4)
+
+### Menu Admin
+* Jika berhasil login, user akan masuk ke menu admin admin. Di menu admin sendiri memiliki 8 opsi yang bisa dilihat di bawah ini
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/d5c97efb-2c2b-4413-8d49-152605467f41)
+
