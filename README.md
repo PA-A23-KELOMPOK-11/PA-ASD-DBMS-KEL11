@@ -57,7 +57,15 @@ Program menjaga Ekosistem Laut adalah program yang dibuat untuk mengawasi dan me
 
 * Opsi '6' Untuk melakukan sorting berdasarkan nama biota secara descending (Z-A)
   ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/f8def990-274d-4826-a633-1a8fb83805b1)
-  
+
+* Opsi '7' Untuk melakukan searching berdasarkan nama biota
+  ![WhatsApp Image 2024-05-01 at 20 44 16](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/b66e5595-aecb-421b-a69c-294f933d298b)
+
+* Opsi '8' Untuk melakukan logout dan kembali ke menu utama
+
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/d8a8b15c-5d21-4005-82bd-f44ebe1f3f81)
+
+
 
 
 
