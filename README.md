@@ -12,3 +12,4 @@ Seacare Center
 ### Brief Description
 Program menjaga Ekosistem Laut adalah program yang dibuat untuk mengawasi dan mengamati perkembangan ekosistem laut. Sering kali kita melihat berita terumbu karang yang rusak karena bom dan penangkapan ikan serta hewan yang dilindungi secara ilegal. Program ini bertujuan untuk mendata dan melihat perkembangan ekosistem laut dari banyaknya tindakan pelestarian yang dilakukan para penanggung jawab dari berbagai instansi tentunnya. 
 
+## Cara Penggunaan Program
