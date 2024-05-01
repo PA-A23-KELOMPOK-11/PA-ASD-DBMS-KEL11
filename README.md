@@ -65,6 +65,41 @@ Program menjaga Ekosistem Laut adalah program yang dibuat untuk mengawasi dan me
 
   ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/d8a8b15c-5d21-4005-82bd-f44ebe1f3f81)
 
+### Menu Penanggung Jawab(PJ)
+
+* Lakukan login sebagai PJ di menu utama
+  
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/a2b43f6b-9d9b-4642-8655-2cc98374e977)
+
+* Setelah login berhasil, akan masuk ke menu PJ. Di menu PJ sendiri ada 6 opsi yang bisa dilihat di bawah ini
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/8380f694-0794-49b0-9c78-40a22eb60206)
+
+* Opsi '1' untuk menampilkan data tindakan pelestarian
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/2d099f90-2825-4ec5-b632-2fa09626dc90)
+
+* Opsi '2' melakukan sorting berdasarkan ID_Registrasi secara ascending (terkecil-terbesar)
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/f3d1c9ee-e085-40f1-9a0b-5ea69e2ddd0c)
+
+* Opsi '3' melakukan sorting berdasarkan ID_Registrasi secara descending (terbesar-terkecil)
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/0075d233-97a9-4d38-be17-c10be6294d17)
+
+* Opsi '4' Untuk melakukan searching berdasarkan ID_Registrasi
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/6caba6a5-9a7a-4cae-9c4c-9df9c7a96ea5)
+
+* Opsi '5' Untuk menambah data baru di tindakan pelestarian
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/3358f3fe-a730-4c19-9d9c-45029f19264b)
+
+  Data berhasil ditambah
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/5b52b31f-67c5-439f-8ac9-148298c25301)
+
+* Opsi '6 Untuk kembali ke menu utama, lalu pilih opsi '3' pada menu utama untuk memberhentikan program
+  ![image](https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/assets/144798359/36c7a40b-7ea5-44fc-af70-e287dd4a85e7)
+
+
+
+
+
+
 
 
 
