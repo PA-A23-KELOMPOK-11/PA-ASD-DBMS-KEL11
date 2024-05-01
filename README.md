@@ -7,16 +7,18 @@
 * **Rofi Hanif Fauzan** - 2309116026
 
 # DAFTAR ISI
-* Brief Description [https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/blob/main/README.md#brief-description]
-* Flowchart [https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/blob/main/README.md#flowchart]
-* Penggunaan Program [https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/blob/main/README.md#cara-penggunaan-program]
-* Menu Admin [https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/blob/main/README.md#menu-admin]
-* Menu PJ [https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/blob/main/README.md#menu-penanggung-jawabpj]
-* Library
+* Brief Description [(https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/blob/main/README.md#brief-description)]
+* Flowchart [(https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/blob/main/README.md#flowchart)]
+* Penggunaan Program [(https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/blob/main/README.md#cara-penggunaan-program)]
+* Menu Admin [(https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/blob/main/README.md#menu-admin)]
+* Menu PJ [(https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/blob/main/README.md#menu-penanggung-jawabpj)]
+* Library [(https://github.com/PA-A23-KELOMPOK-11/PA-ASD-DBMS-KEL11/blob/main/README.md#import-modul)]
 
 # IMPORT MODUL
 > Import import mysql.connector
+
 > from prettytable import PrettyTable
+
 > import os | os.system('cls')
 
 # Program Menjaga Ekosistem Laut
